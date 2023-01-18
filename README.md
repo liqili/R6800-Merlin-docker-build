@@ -14,7 +14,7 @@ git clone https://github.com/SWRT-dev/mtk-toolchains
 ### 2、运行编译环境
 
 ```
-docker-compose up --build
+docker-compose create --build
 docker-compose run ubuntu
 ```
 
